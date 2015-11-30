@@ -55,7 +55,7 @@
             // 
             this.btnthoat.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnthoat.ForeColor = System.Drawing.Color.Red;
-            this.btnthoat.Location = new System.Drawing.Point(343, 106);
+            this.btnthoat.Location = new System.Drawing.Point(323, 110);
             this.btnthoat.Name = "btnthoat";
             this.btnthoat.Size = new System.Drawing.Size(84, 57);
             this.btnthoat.TabIndex = 1;
@@ -67,7 +67,7 @@
             // 
             this.btngiaovien.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btngiaovien.ForeColor = System.Drawing.Color.Blue;
-            this.btngiaovien.Location = new System.Drawing.Point(207, 106);
+            this.btngiaovien.Location = new System.Drawing.Point(197, 110);
             this.btngiaovien.Name = "btngiaovien";
             this.btngiaovien.Size = new System.Drawing.Size(84, 57);
             this.btngiaovien.TabIndex = 2;
@@ -79,7 +79,7 @@
             // 
             this.btnhocsinh.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnhocsinh.ForeColor = System.Drawing.Color.Blue;
-            this.btnhocsinh.Location = new System.Drawing.Point(70, 106);
+            this.btnhocsinh.Location = new System.Drawing.Point(73, 110);
             this.btnhocsinh.Name = "btnhocsinh";
             this.btnhocsinh.Size = new System.Drawing.Size(84, 57);
             this.btnhocsinh.TabIndex = 4;
